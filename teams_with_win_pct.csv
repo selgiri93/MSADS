@@ -1,0 +1,45 @@
+"team_name","team_name_short","team_id","team_id_pfr","team_conference","team_division","team_conference_pre2002","team_division_pre2002","TotalGames","TotalWins","WinPercentage"
+"Arizona Cardinals","Cardinals","ARI","CRD","NFC","NFC West","NFC","NFC West",495,208,42.020202020202
+"Atlanta Falcons","Falcons","ATL","ATL","NFC","NFC South","NFC","NFC West",920,399,43.3695652173913
+"Baltimore Colts","Colts","IND","CLT","AFC","","AFC","AFC East",268,136,50.7462686567164
+"Baltimore Ravens","Ravens","BAL","RAV","AFC","AFC North","AFC","AFC Central",481,273,56.7567567567568
+"Boston Patriots","Patriots","NE","NWE","AFC","","AFC","",41,12,29.2682926829268
+"Buffalo Bills","Bills","BUF","BUF","AFC","AFC East","AFC","AFC East",932,442,47.4248927038627
+"Carolina Panthers","Panthers","CAR","CAR","NFC","NFC South","NFC","NFC West",484,223,46.0743801652893
+"Chicago Bears","Bears","CHI","CHI","NFC","NFC North","NFC","NFC Central",921,434,47.1226927252986
+"Cincinnati Bengals","Bengals","CIN","CIN","AFC","AFC North","AFC","AFC Central",893,403,45.1287793952968
+"Cleveland Browns","Browns","CLE","CLE","AFC","AFC North","AFC","AFC Central",871,375,43.0539609644087
+"Dallas Cowboys","Cowboys","DAL","DAL","NFC","NFC East","NFC","NFC East",963,571,59.2938733125649
+"Denver Broncos","Broncos","DEN","DEN","AFC","AFC West","AFC","AFC West",938,507,54.0511727078891
+"Detroit Lions","Lions","DET","DET","NFC","NFC North","NFC","NFC Central",912,373,40.8991228070175
+"Green Bay Packers","Packers","GB","GNB","NFC","NFC North","NFC","NFC Central",949,518,54.5837723919916
+"Houston Oilers","Oilers","TEN","OTI","AFC","","AFC","AFC Central",480,211,43.9583333333333
+"Houston Texans","Texans","HOU","HTX","AFC","AFC South","AFC","",367,157,42.7792915531335
+"Indianapolis Colts","Colts","IND","CLT","AFC","AFC South","AFC","AFC East",672,347,51.6369047619048
+"Jacksonville Jaguars","Jaguars","JAX","JAX","AFC","AFC South","AFC","AFC Central",483,206,42.6501035196687
+"Kansas City Chiefs","Chiefs","KC","KAN","AFC","AFC West","AFC","AFC West",940,219,23.2978723404255
+"Las Vegas Raiders","Raiders","LVR","RAI","AFC","","AFC","AFC West",68,32,47.0588235294118
+"Los Angeles Chargers","Chargers","LAC","SDG","AFC","AFC West","AFC","AFC West",118,58,49.1525423728814
+"Los Angeles Raiders","Raiders","LVR","RAI","AFC","","AFC","AFC West",209,123,58.8516746411483
+"Los Angeles Rams","Rams","LAR","RAM","NFC","NFC West","NFC","NFC West",597,337,56.4489112227806
+"Miami Dolphins","Dolphins","MIA","MIA","AFC","AFC East","AFC","AFC East",939,515,54.8455804046858
+"Minnesota Vikings","Vikings","MIN","MIN","NFC","NFC North","NFC","NFC Central",948,519,54.746835443038
+"New England Patriots","Patriots","NE","NWE","AFC","AFC East","AFC","AFC East",912,519,56.9078947368421
+"New Orleans Saints","Saints","NO","NOR","NFC","NFC South","NFC","NFC West",905,420,46.4088397790055
+"New York Giants","Giants","NYG","NYG","NFC","NFC East","NFC","NFC East",930,439,47.2043010752688
+"New York Jets","Jets","NYJ","NYJ","NFC","AFC East","NFC","AFC East",921,405,43.9739413680782
+"Oakland Raiders","Raiders","LVR","RAI","AFC","AFC West","AFC","AFC West",664,342,51.5060240963855
+"Philadelphia Eagles","Eagles","PHI","PHI","NFC","NFC East","NFC","NFC East",942,482,51.1677282377919
+"Phoenix Cardinals","Cardinals","ARI","CRD","NFC","","NFC","NFC East",96,32,33.3333333333333
+"Pittsburgh Steelers","Steelers","PIT","PIT","AFC","AFC North","AFC","AFC Central",959,560,58.3941605839416
+"San Diego Chargers","Chargers","LAC","SDG","AFC","AFC West","AFC","AFC West",804,379,47.1393034825871
+"San Francisco 49ers","49ers","SF","SFO","NFC","NFC West","NFC","NFC West",957,295,30.8254963427377
+"Seattle Seahawks","Seahawks","SEA","SEA","NFC","NFC West","AFC","AFC West",792,407,51.3888888888889
+"St. Louis Cardinals","Cardinals","ARI","ARI","NFC","","NFC","NFC East",320,145,45.3125
+"St. Louis Rams","Rams","LAR","RAM","NFC","","NFC","NFC West",346,148,42.7745664739884
+"Tampa Bay Buccaneers","Buccaneers","TB","TAM","NFC","NFC South","NFC","NFC Central",780,318,40.7692307692308
+"Tennessee Oilers","Oilers","TEN","OTI","AFC","","AFC","AFC Central",32,16,50
+"Tennessee Titans","Titans","TEN","OTI","AFC","AFC South","AFC","AFC Central",421,217,51.5439429928741
+"Washington Commanders","Washington","WAS","WAS","NFC","NFC East","NFC","NFC East",34,12,35.2941176470588
+"Washington Football Team","Washington","WAS","WAS","NFC","NFC East","NFC","NFC East",34,14,41.1764705882353
+"Washington Redskins","Washington","WAS","WAS","NFC","NFC East","NFC","NFC East",864,440,50.9259259259259
